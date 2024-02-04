@@ -12,10 +12,8 @@ The project focuses on mastering Data Definition Language (DDL) and Data Manipul
 
 - Identify Museums without any paintings.
 - Retrieve paintings not displayed in any museum.
-- Determine Museums open every single day.
-- Identify Museums with invalid city information and update them.
 - Calculate the average price of artworks in each museum.
-- Find the museum with the longest opening hours on Fridays.
+
 
 
 # Objective: 
@@ -81,5 +79,16 @@ I had to clean the data by removing duplicate entries in a column, esp. where th
 
 ![Screenshot 2024-02-01 at 23 38 26](https://github.com/GadAugust/Museums-Inventory-Management-Postgresql-/assets/81167692/17d30446-0c32-4a30-b17f-06a674f3d509)
 
+# Query to business question 1:
 
+![WhatsApp Image 2024-02-04 at 00 39 22](https://github.com/GadAugust/Museums-Inventory-Management-Postgresql-/assets/81167692/ee1c0938-2fdf-4d69-9bda-298289199cdb)
+
+
+# Query to business Question 2
+
+![WhatsApp Image 2024-02-04 at 00 39 22 (1)](https://github.com/GadAugust/Museums-Inventory-Management-Postgresql-/assets/81167692/234244d4-dd0c-4112-9e89-53b53b400f55)
+
+
+# Query to business question 3
+![WhatsApp Image 2024-02-04 at 00 39 22 (2)](https://github.com/GadAugust/Museums-Inventory-Management-Postgresql-/assets/81167692/8a6832f5-eb73-4319-9c64-3651b94abbda)
 
